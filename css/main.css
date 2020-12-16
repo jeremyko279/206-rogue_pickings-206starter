@@ -54,6 +54,7 @@ header {
 	align-items: center;
 	flex-flow: row wrap;
 	text-align: center;
+	width: 100%;
 }
 
 header h1 {
